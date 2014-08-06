@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/bmccaffray/cf-express-server/issues"
   },
-  "homepage": "https://github.com/bmccaffray/cf-express-server"
+  "homepage": "https://github.com/bmccaffray/cf-express-server",
+  "dependencies": {
+    "express": "^4.8.0"
+  }
 }
